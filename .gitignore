@@ -1,0 +1,5 @@
+.copilot-azure/
+__pycache__/
+.venv/
+*.py[cod]
+.env
